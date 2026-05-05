@@ -23,3 +23,7 @@ function code (callback){
         code2();
     });
   });
+
+  
+var h = 25;
+console.log(h);

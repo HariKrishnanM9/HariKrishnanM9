@@ -43,3 +43,7 @@ console.log(num==str);
 let numb = 63;
 let strng = "72";
 console.log(numb===strng);
+
+
+var h = 25;
+console.log(h);

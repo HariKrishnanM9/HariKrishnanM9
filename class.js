@@ -110,3 +110,6 @@ superBrands.bestPerformanceBrand();
 
 let sports = [ "criket","vollyball","tennis","foodball","basket ball","chess","carom"]
 console.log(sports[3]);
+
+var h = 25;
+console.log(h);
